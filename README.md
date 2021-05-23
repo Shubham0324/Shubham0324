@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there👋, Myself Shubham Aggarwal 2nd Year Undergrad
+
 
 <!--
 **Shubham0324/Shubham0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- replace x.x.x with actual version -->
+# Some Stats
+<img src = "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shubham0324">
+
+ ### Reach me via <a href="mailto:shubham2403tayal@gmail.com"> Mail </a> to discuss something interesting.
