@@ -1,4 +1,4 @@
-### Hi there👋, Myself Shubham Aggarwal 2nd Year Undergrad
+### Hi there👋, Myself Shubham Aggarwal
 
 
 <!--
